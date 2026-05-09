@@ -1,1 +1,0 @@
-# shynie-portfolio-web
